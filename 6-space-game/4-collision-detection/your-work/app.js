@@ -161,7 +161,7 @@ function initGame() {
 	eventEmitter.on(Messages.KEY_EVENT_RIGHT, () => {
 		hero.x += 5;
 	});
-}
+
 
 window.onload = async () => {
 	canvas = document.getElementById('canvas');
