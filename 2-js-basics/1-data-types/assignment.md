@@ -8,7 +8,8 @@ Imagine you are building a shopping cart. Write some documentation on the data t
 | ------- | -------- |
 | Pizza   | Parma    |
 | small   | normal    |
- 
+
+
 ## Rubric
 
 Criteria | Exemplary | Adequate | Needs Improvement
