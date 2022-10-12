@@ -14,10 +14,10 @@ Criteria | Exemplary | Adequate | Needs Improvement
 
 # Best discounts in Stockholm
 
-| Criteria| Product Name     | Shop  | Type |  Prise |Sale   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-|  |  Beef | Chicken  |  Coop |   120|  95 |  |   |   |   |
-|  |  Drink | Beer  |  Willys |  50 |  40 |   |   |   |   |
-|   |  Dessert |  Cake |   Mr. Cake  | 55  |  40 |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
+| Criteria| Product Name     | Shop  | Type |  Prise |Sale   | Spara  |
+|---|---|---|---|---|---|---|
+|  |  Beef | Blandfärs  |  Willys |   93,80 |  79,80 | 7,00 kr |
+|  |  Papper |Toalettpapper 6-pack  | Coop |    52.01| 34:95  |  3 för79  | 
+|   |  Fisk |  Laxsida |   ICA  | 169  |  129 |   40|
+|   |  Glass |   Ben & Jerry's|  hemkop | 118,17   |  96,77  | 45,00  |
+|   |  Beef |   Rökt schwarzwaldskinka| Lidl  | 159,00   |  21.90 |  15.90 |
